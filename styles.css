@@ -8,7 +8,7 @@
 
 body {
   font-family: var(--default-font-family);
-  margin: 100px 0;
+  margin: 0px;
 }
 
 h1,
@@ -37,6 +37,9 @@ p {
   text-align: center;
   background-size: cover;
   padding: 160px 20px;
+  width: 100vw;
+  height: 100vh;
+  margin-top: 0;
 }
 
 .hero p {
